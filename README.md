@@ -8,3 +8,6 @@ Un simple gestor de tareas hecho en equipo.
 
 ## Cómo usar
 1. ...
+
+## Modificación
+Una simple modificación.
